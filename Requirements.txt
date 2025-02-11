@@ -1,0 +1,1 @@
+pip install streamlit yfinance numpy pandas matplotlib ta tensorflow prophet scikit-learn arch
